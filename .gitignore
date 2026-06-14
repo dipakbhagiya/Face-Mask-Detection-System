@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+dataset/
+dataset.zip
+*.keras
+face_detector/*.caffemodel
+.DS_Store
+screenshot_*.png
